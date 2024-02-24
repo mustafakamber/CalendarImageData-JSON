@@ -1,6 +1,6 @@
 | January | February | March |
 | ----- | ------------ | ------------ |
-|<img src="https://i.ibb.co/2NVh6pX/base-calendar-january.png" width="640" height="360"/>|<img src="https://i.ibb.co/z5G0NRK/base-calendar-february.png" width="640" height="360"/>|<img src="https://i.ibb.co/fDVwTcg/base-calendar-march.png" width="640" height="360"/>
+|<img src="https://i.ibb.co/2NVh6pX/base-calendar-january.png" width="640" height="180"/>|<img src="https://i.ibb.co/z5G0NRK/base-calendar-february.png" width="640" height="360"/>|<img src="https://i.ibb.co/fDVwTcg/base-calendar-march.png" width="640" height="360"/>
 
 | April | May | June |
 | ----- | ------------ | ------------ |
