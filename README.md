@@ -8,7 +8,7 @@
 
 | July  | August | September |
 | ----- | ------------ | ------------ |
-|<img src="https://i.ibb.co/wJNtJ6x/base-calendar-july.png" width="700" height="180"/>|<img src="https://i.ibb.co/s9htVqL/base-calendar-august.png" width="640" height="180"/>|<img src="https://i.ibb.co/XLGXwqG/base-calendar-september.png" width="640" height="180"/>
+|<img src="https://i.ibb.co/wJNtJ6x/base-calendar-july.png" width="700" height="180"/>|<img src="https://i.ibb.co/s9htVqL/base-calendar-august.png" width="700" height="180"/>|<img src="https://i.ibb.co/XLGXwqG/base-calendar-september.png" width="700" height="180"/>
 
 | October  | November | December |
 | ----- | ------------ | ------------ |
